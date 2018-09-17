@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IdDog</string>
+    <string name="e_mail">e-mail</string>
+    <string name="logo_app">Logo App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+</resources>
